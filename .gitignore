@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 .venv/
 __pycache__/
@@ -29,3 +30,12 @@ Thumbs.db
 
 # Generated images/videos
 *.png
+=======
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+>>>>>>> origin/main
